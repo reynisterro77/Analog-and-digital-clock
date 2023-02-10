@@ -1,1 +1,3 @@
-# Analog-and-digital-clock
+# Analog-digital-clock
+
+![preview img](/clock.png)
